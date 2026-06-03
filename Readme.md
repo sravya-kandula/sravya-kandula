@@ -109,15 +109,6 @@ A responsive e-commerce website clone focused on modern UI design and frontend d
 
 ---
 
-## 📊 GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sravya-kandula\&show_icons=true\&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sravya-kandula\&layout=compact\&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=sravya-kandula\&theme=tokyonight)
-
----
 
 ## 🌐 Connect With Me
 
