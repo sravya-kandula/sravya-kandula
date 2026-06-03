@@ -109,16 +109,12 @@ A responsive e-commerce website clone focused on modern UI design and frontend d
 
 ---
 
-
 ## 🌐 Connect With Me
 
-💼 LinkedIn: https://www.linkedin.com/in/kandula-sravya-245955314
-
-💻 GitHub: https://github.com/sravya-kandula
-
-📧 Email: [kandulasravya7@gmail.com](mailto:kandulasravya7@gmail.com)
-
----
+* 💼 LinkedIn: https://www.linkedin.com/in/kandula-sravya-245955314
+* 💻 GitHub: https://github.com/sravya-kandula
+* 📧 [kandulasravya7@gmail.com](mailto:kandulasravya7@gmail.com)
+* 📧 [sravyakandula194@gmail.com](mailto:sravyakandula194@gmail.com)
 
 ### ✨ Motto
 
